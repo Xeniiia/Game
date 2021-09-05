@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - LongMusic_tag
+  - LongPassLevel_NECHET
+  - LongPassLevel_CHET
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - WallForJump
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: wall
+    uniqueID: 2549689203
+    locked: 0
+  - name: ground
+    uniqueID: 2093180449
+    locked: 0
+  - name: ground2
+    uniqueID: 4061828945
+    locked: 0
+  - name: decor
+    uniqueID: 4224305091
+    locked: 0
+  - name: Player
+    uniqueID: 2705500717
+    locked: 0
